@@ -1,0 +1,6 @@
+data/*
+src/visualizer/__pycache__/*
+src/visualizer/__init__.py
+.DS_Store
+
+*.pyc
