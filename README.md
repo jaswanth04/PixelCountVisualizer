@@ -12,6 +12,12 @@ This can also be used on a video, where you get a slider and as you move the sli
 
 ## Usage
 
+install the below packages
+
+```
+pip install opencv-python
+pip install matplotlib
+```
 
 Find examples in tests/trial.py
 
