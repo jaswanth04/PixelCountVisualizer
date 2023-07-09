@@ -12,15 +12,14 @@ This can also be used on a video, where you get a slider and as you move the sli
 
 ## Usage
 
-Install the module first
 
-    pip install <TBD>
+Find examples in tests/trial.py
 
-Find an example in trial.py
+Sample test data is used, which needs to be replaced with the required videos.
 
 ## TODO
 
-As of now, it only visualizes RGB pixel count, we need to modify the code so, that it can support visualization for HSV, and YCbCr
+Publish a package
 
 ## Support
 
