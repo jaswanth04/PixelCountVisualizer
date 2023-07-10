@@ -27,6 +27,10 @@ Sample test data is used, which needs to be replaced with the required videos.
 
 Publish a package
 
+## Article
+
+Please go through the following article for more information on this repository - https://medium.com/@jaswanth04/interactive-pixel-count-visualisation-using-opencv-and-matplotlib-python-b110e5c08dc7
+
 ## Support
 
 Please raise and Issue, in the Issues tab, or please mail jaswanth04@gmail.com for any queries
